@@ -1,0 +1,14 @@
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\DwarfsWCF\bin\Debug\DwarfsWCF.dll.config
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\DwarfsWCF\bin\Debug\DwarfsWCF.dll
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\DwarfsWCF\bin\Debug\DwarfsWCF.pdb
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\DwarfsWCF\obj\Debug\DwarfsWCF.csproj.CoreCompileInputs.cache
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\DwarfsWCF\obj\Debug\DwarfsWCF.dll
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\DwarfsWCF\obj\Debug\DwarfsWCF.pdb
+\\ATHENA\RedirectedFolders\Aurora.Brignola\My Documents\Visual Studio 2017\Projects\DwarfsWCF\DwarfsWCF\obj\Debug\DwarfsWCF.csprojResolveAssemblyReference.cache
+C:\mess\DwarfsWCF\DwarfsWCF\bin\Debug\DwarfsWCF.dll.config
+C:\mess\DwarfsWCF\DwarfsWCF\bin\Debug\DwarfsWCF.dll
+C:\mess\DwarfsWCF\DwarfsWCF\bin\Debug\DwarfsWCF.pdb
+C:\mess\DwarfsWCF\DwarfsWCF\obj\Debug\DwarfsWCF.csprojResolveAssemblyReference.cache
+C:\mess\DwarfsWCF\DwarfsWCF\obj\Debug\DwarfsWCF.csproj.CoreCompileInputs.cache
+C:\mess\DwarfsWCF\DwarfsWCF\obj\Debug\DwarfsWCF.dll
+C:\mess\DwarfsWCF\DwarfsWCF\obj\Debug\DwarfsWCF.pdb

@@ -1,0 +1,24 @@
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\CoreApp\bin\Debug\netcoreapp1.1\CoreApp.deps.json
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\CoreApp\bin\Debug\netcoreapp1.1\CoreApp.runtimeconfig.json
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\CoreApp\bin\Debug\netcoreapp1.1\CoreApp.runtimeconfig.dev.json
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\CoreApp\bin\Debug\netcoreapp1.1\CoreApp.dll
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\CoreApp\bin\Debug\netcoreapp1.1\CoreApp.pdb
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\CoreApp\obj\Debug\netcoreapp1.1\CoreApp.csprojResolveAssemblyReference.cache
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\CoreApp\obj\Debug\netcoreapp1.1\CoreApp.csproj.CoreCompileInputs.cache
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\CoreApp\obj\Debug\netcoreapp1.1\CoreApp.AssemblyInfoInputs.cache
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\CoreApp\obj\Debug\netcoreapp1.1\CoreApp.AssemblyInfo.cs
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\CoreApp\obj\Debug\netcoreapp1.1\CoreApp.dll
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\CoreApp\obj\Debug\netcoreapp1.1\CoreApp.pdb
+C:\mess\DwarfsWCF\CoreApp\bin\Debug\netcoreapp1.1\CoreApp.deps.json
+C:\mess\DwarfsWCF\CoreApp\bin\Debug\netcoreapp1.1\CoreApp.runtimeconfig.json
+C:\mess\DwarfsWCF\CoreApp\bin\Debug\netcoreapp1.1\CoreApp.runtimeconfig.dev.json
+C:\mess\DwarfsWCF\CoreApp\bin\Debug\netcoreapp1.1\CoreApp.dll
+C:\mess\DwarfsWCF\CoreApp\bin\Debug\netcoreapp1.1\CoreApp.pdb
+C:\mess\DwarfsWCF\CoreApp\obj\Debug\netcoreapp1.1\CoreApp.csprojResolveAssemblyReference.cache
+C:\mess\DwarfsWCF\CoreApp\obj\Debug\netcoreapp1.1\CoreApp.csproj.CoreCompileInputs.cache
+C:\mess\DwarfsWCF\CoreApp\obj\Debug\netcoreapp1.1\CoreApp.AssemblyInfoInputs.cache
+C:\mess\DwarfsWCF\CoreApp\obj\Debug\netcoreapp1.1\CoreApp.AssemblyInfo.cs
+C:\mess\DwarfsWCF\CoreApp\obj\Debug\netcoreapp1.1\CoreApp.dll
+C:\mess\DwarfsWCF\CoreApp\obj\Debug\netcoreapp1.1\CoreApp.pdb
+C:\mess\DwarfsWCF\CoreApp\bin\Debug\netcoreapp1.1\ClassLibrary.dll
+C:\mess\DwarfsWCF\CoreApp\bin\Debug\netcoreapp1.1\ClassLibrary.pdb

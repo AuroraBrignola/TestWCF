@@ -1,0 +1,15 @@
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\bin\Debug\net45\ClassLibrary.dll
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\bin\Debug\net45\ClassLibrary.pdb
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\obj\Debug\net45\ClassLibrary.csproj.CoreCompileInputs.cache
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\obj\Debug\net45\ClassLibrary.AssemblyInfoInputs.cache
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\obj\Debug\net45\ClassLibrary.AssemblyInfo.cs
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\obj\Debug\net45\ClassLibrary.dll
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\obj\Debug\net45\ClassLibrary.pdb
+C:\mess\DwarfsWCF\ClassLibrary\bin\Debug\net45\ClassLibrary.dll
+C:\mess\DwarfsWCF\ClassLibrary\bin\Debug\net45\ClassLibrary.pdb
+C:\mess\DwarfsWCF\ClassLibrary\obj\Debug\net45\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\mess\DwarfsWCF\ClassLibrary\obj\Debug\net45\ClassLibrary.AssemblyInfoInputs.cache
+C:\mess\DwarfsWCF\ClassLibrary\obj\Debug\net45\ClassLibrary.AssemblyInfo.cs
+C:\mess\DwarfsWCF\ClassLibrary\obj\Debug\net45\ClassLibrary.dll
+C:\mess\DwarfsWCF\ClassLibrary\obj\Debug\net45\ClassLibrary.pdb
+C:\mess\DwarfsWCF\ClassLibrary\obj\Debug\net45\ClassLibrary.csprojResolveAssemblyReference.cache

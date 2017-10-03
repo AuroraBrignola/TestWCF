@@ -1,0 +1,17 @@
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\bin\Debug\netcoreapp1.1\ClassLibrary.deps.json
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\bin\Debug\netcoreapp1.1\ClassLibrary.dll
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\bin\Debug\netcoreapp1.1\ClassLibrary.pdb
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.csproj.CoreCompileInputs.cache
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.AssemblyInfoInputs.cache
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.AssemblyInfo.cs
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.dll
+\\athena\redirectedfolders\aurora.brignola\my documents\visual studio 2017\Projects\DwarfsWCF\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.pdb
+C:\mess\DwarfsWCF\ClassLibrary\bin\Debug\netcoreapp1.1\ClassLibrary.deps.json
+C:\mess\DwarfsWCF\ClassLibrary\bin\Debug\netcoreapp1.1\ClassLibrary.dll
+C:\mess\DwarfsWCF\ClassLibrary\bin\Debug\netcoreapp1.1\ClassLibrary.pdb
+C:\mess\DwarfsWCF\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\mess\DwarfsWCF\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\mess\DwarfsWCF\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.AssemblyInfo.cs
+C:\mess\DwarfsWCF\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.dll
+C:\mess\DwarfsWCF\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.pdb
+C:\mess\DwarfsWCF\ClassLibrary\obj\Debug\netcoreapp1.1\ClassLibrary.csprojResolveAssemblyReference.cache
